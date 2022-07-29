@@ -1,2 +1,3 @@
 teste teste
 segunda linha
+e assim o bug foi resolviso
